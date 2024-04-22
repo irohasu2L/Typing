@@ -8,9 +8,16 @@
   }
 
   const words = [
-    'red',
-    'blue',
-    'pink',
+    'agriculture',
+    'barbarian',
+    'season',
+    'age',
+    'action',
+    'wander',
+    'remain',
+    'degrade',
+    'gene',
+    'dynamic',
   ];
   let word;
   let loc = 0;
